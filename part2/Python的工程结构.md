@@ -42,6 +42,3 @@ ProjectName
 ```
 
 
-```python
-print('1')
-```
