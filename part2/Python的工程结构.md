@@ -20,7 +20,6 @@ Foo/
 |-- README # 项目说明文件
 ```  
 
----
 
 #### Python通用目录结构
 ```
@@ -41,4 +40,6 @@ ProjectName
 └─ init.py
 ```
 
+Python的工程结构
+![](https://lh3.googleusercontent.com/sF-G3pcVe6Txb1ic1Ko_6y-fuRQ2tf-Tmmrf6BwnjuoE5OEd4txZSRPrpiVu9Bab1EzJTzGAI6oUhG9Z0TaalVnrdcRAzmLDSxMsPM2U8HpF8XNr6AisIs-pG-YtQseoQ3a8KiU6yvdW_Y6BgGRmyu9UIx7--dO1zN7JddKE6iVR7RfPwgqIzYEAL4KSL2g-y7g4htYAfTNE3jytxtGa6iV7HvUnHdSIWnuyFi4LNTt2cVN8l4e4oDt3uUiVqxQ9Y8_9MadqsSdKv_zlFwbn_zFLDK_7TAYu4SfE3aP2QDYVGS8MBkD3Ma9j7kN3PcnPl1e06dT7mGLVRkDOdNcr9BTDQ-9Un29oRzW3zE_iu-KKzG5Fl9Ksz1pP8ybsqKVrYsl2M7APlJwVUOrFGIQkzvg9DZPrvGkIEYIu6fsjAN6NffuoeFBdHj2vJ7DbqiYIE4iLClC8l0jUkJ_Tvjd7UC42RhBZx9ph1vKkHvqLos_yFb03eHCzyaHedMjdxrWA7MiH36CT3zZ-XHGIyqpTKMnp5KAdBeQm_0Oe3GshUq2hkyYLdv73tiOa9gpXnqz2-XdZb-6vq45pG2l9IbIEt_0pbWutLukIL0NW-_8UPhkgaWY8OQvbmrh73ZnUDMUEaKhG1UFfZg8uA1dwMZyXooRF2EgWrg=w1228-h667-no)
 
